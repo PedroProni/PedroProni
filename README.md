@@ -48,7 +48,8 @@ Architect and backend tech lead for real-time distributed systems in iGaming —
 ---
 
 <p align="left">
-<img height="165" src="https://streak-stats.demolab.com/?user=PedroProni&hide_border=true&background=08070c&stroke=948da8&ring=a97bff&fire=a97bff&currStreakLabel=a97bff&sideLabels=948da8&dates=46435a&currStreakNum=f1eef8&sideNums=f1eef8" alt="streak" />
+<img height="175" src="https://stats.proni.dev/stats" alt="GitHub stats" />
+<img height="175" src="https://streak-stats.demolab.com/?user=PedroProni&hide_border=true&background=08070c&stroke=948da8&ring=a97bff&fire=a97bff&currStreakLabel=a97bff&sideLabels=948da8&dates=46435a&currStreakNum=f1eef8&sideNums=f1eef8" alt="streak" />
 </p>
 
 ---
