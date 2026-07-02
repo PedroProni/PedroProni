@@ -48,9 +48,7 @@ Architect and backend tech lead for real-time distributed systems in iGaming —
 ---
 
 <p align="left">
-<img width="420" src="https://stats.proni.dev/stats?v=2" alt="GitHub stats" />
-&nbsp;
-<img width="420" src="https://stats.proni.dev/activity?v=2" alt="Contribution activity" />
+<img width="840" src="https://stats.proni.dev/combo?v=3" alt="GitHub stats and contribution activity" />
 </p>
 
 ---
