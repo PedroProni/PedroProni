@@ -1,7 +1,7 @@
 <h1 align="left">Pedro Proni</h1>
 
 <p align="left">
-<b>Software Architect · Backend Tech Lead</b> — I design scalable, real-time distributed systems.
+<b>Software Architect · Backend Tech Lead</b>: I design scalable, real-time distributed systems.
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 
 ---
 
-Architect and backend tech lead for real-time distributed systems in iGaming — microservices ecosystems built on Domain-Driven Design, Event-Driven Architecture and pragmatic decisions. I care about systems that age well: low latency, expected failures, scale without drama.
+Architect and backend tech lead for real-time distributed systems in iGaming: microservices ecosystems built on Domain-Driven Design, Event-Driven Architecture and pragmatic decisions. I care about systems that age well: low latency, expected failures, scale without drama.
 
 <table>
 <tr>
@@ -22,6 +22,20 @@ Architect and backend tech lead for real-time distributed systems in iGaming —
 <td><b>Multi-tenant</b><br/>multi-brand platform</td>
 </tr>
 </table>
+
+### Featured project: Orbit
+
+A self-hosted task manager built end to end as a ClickUp replacement: board and table views, saved views, an "All tasks" board, roles (owner, admin, member, viewer, guest), automations, public forms, task templates, scoped API tokens, an audit log and a GitHub integration.
+
+<p align="left">
+<a href="https://orbit-demo.proni.dev"><img src="https://img.shields.io/badge/Live_demo-try_it,_no_sign--in-0d1117?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=a97bff" alt="Live demo" /></a>
+<a href="https://orbit.proni.dev"><img src="https://img.shields.io/badge/Site-orbit.proni.dev-0d1117?style=flat-square&labelColor=0d1117&logo=cloudflare&logoColor=a97bff" alt="Orbit site" /></a>
+<a href="https://github.com/PedroProni/orbit"><img src="https://img.shields.io/badge/Code-PedroProni/orbit-0d1117?style=flat-square&labelColor=0d1117&logo=github&logoColor=a97bff" alt="Orbit code" /></a>
+</p>
+
+<a href="https://orbit-demo.proni.dev"><img width="840" src="https://orbit.proni.dev/img/board.png" alt="Orbit board view" /></a>
+
+<sub>NestJS · Next.js · MongoDB · S3 · Clean Architecture · 2,000+ automated tests. The demo runs from my own machine, may be offline, and resets every night.</sub>
 
 ### What I do
 
@@ -53,4 +67,4 @@ Architect and backend tech lead for real-time distributed systems in iGaming —
 
 ---
 
-<sub>🌐 <a href="https://portfolio.proni.dev">portfolio.proni.dev</a> — selected systems, architecture and case studies.</sub>
+<sub>🌐 <a href="https://portfolio.proni.dev">portfolio.proni.dev</a>: selected systems, architecture and case studies.</sub>
