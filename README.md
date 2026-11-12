@@ -1,7 +1,7 @@
 <h1 align="left">Pedro Proni</h1>
 
 <p align="left">
-<b>Software Architect · Backend Tech Lead</b>: I design scalable, real-time distributed systems.
+<b>Software Engineer · Full Stack · Distributed Systems</b>: Node.js, TypeScript, NestJS, React and AWS. Open to remote roles.
 </p>
 
 <p align="left">
@@ -12,14 +12,15 @@
 
 ---
 
-Architect and backend tech lead for real-time distributed systems in iGaming: microservices ecosystems built on Domain-Driven Design, Event-Driven Architecture and pragmatic decisions. I care about systems that age well: low latency, expected failures, scale without drama.
+Software Engineer with 5+ years building production systems, most recently as Software Architect of a multi-tenant iGaming platform: microservices built on Domain-Driven Design, Event-Driven Architecture and pragmatic decisions. I care about systems that age well: low latency, expected failures, scale without drama.
 
 <table>
 <tr>
 <td><b>12M+</b><br/>events/day</td>
+<td><b>10+</b><br/>tenants</td>
+<td><b>-60.8%</b><br/>cloud cost</td>
 <td><b>~US$480</b><br/>monthly infra</td>
 <td><b>20+</b><br/>microservices</td>
-<td><b>Multi-tenant</b><br/>multi-brand platform</td>
 </tr>
 </table>
 
@@ -35,7 +36,7 @@ A self-hosted task manager built end to end as a ClickUp replacement: board and 
 
 <a href="https://orbit-demo.proni.dev"><img width="840" src="https://orbit.proni.dev/img/board.png" alt="Orbit board view" /></a>
 
-<sub>NestJS · Next.js · MongoDB · S3 · Clean Architecture · 2,000+ automated tests. The demo runs from my own machine, may be offline, and resets every night.</sub>
+<sub>NestJS · Next.js · MongoDB · S3 · Clean Architecture · 2,000+ automated tests. The demo is hosted on a free tier: it may take about a minute to wake up, and it resets every night.</sub>
 
 ### What I do
 
@@ -43,9 +44,13 @@ A self-hosted task manager built end to end as a ClickUp replacement: board and 
 - Build high-throughput, low-latency backend systems
 - Define reproducible cloud infrastructure (AWS · Terraform · CI/CD)
 - Lead ML systems for recommendation & segmentation
+- Build and fine-tune LLMs and design multi-agent AI pipelines
+- Build full-stack features with React and Next.js
 
 ### Stack
 
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=a97bff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a97bff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a97bff)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a97bff)
 ![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=a97bff)
